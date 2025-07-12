@@ -1,12 +1,19 @@
 Data Science & Machine Learning Project
 A comprehensive data science repository containing various machine learning models, exploratory data analysis, and statistical hypothesis testing implementations.
-📁 Project Structure
-├── Different/Complex GBM classifier/    # Advanced Gradient Boosting Models
-├── EDA/                                # Exploratory Data Analysis
-├── Hypothesis Testing/                 # Statistical Hypothesis Testing
-├── Machine Learning/                   # General ML Models & Algorithms
-├── .gitignore                         # Git ignore file
-└── README.md                          # Project documentation
+      📁 Project Structure
+      
+      ├── Different/Complex GBM classifier/    # Advanced Gradient Boosting Models
+      
+      ├── EDA/                                # Exploratory Data Analysis
+      
+      ├── Hypothesis Testing/                 # Statistical Hypothesis Testing
+      
+      ├── Machine Learning/                   # General ML Models & Algorithms
+      
+      ├── .gitignore                         # Git ignore file large size file
+      
+      └── README.md                          # Project documentation
+
 🚀 Features
 🔍 Exploratory Data Analysis (EDA)
 
